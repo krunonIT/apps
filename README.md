@@ -1,3 +1,9 @@
+<style>
+pre {
+  font-family: monospace;
+}  
+</style>
+
 วิธีการใช้งาน <br/>
 รูปแบบ = https://krunonit.github.io/apps/?apps=$exec <br/>
   <blockqoute> $exec คือ Link apps script ที่ไม่อยากให้มีแถบสีเทา เช่น <br/> </blockqoute>
